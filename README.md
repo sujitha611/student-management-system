@@ -1,4 +1,4 @@
-# Student Management System
+# 🎓 Student Management System
 
 A command-line interface (CLI) application developed in **Python** with an embedded **SQLite3** database for managing academic student records.
 
@@ -7,26 +7,26 @@ A command-line interface (CLI) application developed in **Python** with an embed
 
 ---
 
-## Features
+## ✨ Features
 
-- **Add Student Records:** Add student profiles with name and marks.
-- **View All Records:** Formatted tabular view of all stored student records.
-- **Delete Student Record:** Remove records safely by unique student ID.
+- **Add Student Records:** Add student profiles with name and marks (`1. Add Student`).
+- **View All Records:** Formatted tabular view of all stored student records (`2. View Students`).
+- **Delete Student Record:** Remove records safely by unique student ID (`3. Delete Student`).
 - **Persistent SQLite Storage:** Auto-initializes `students.db` table schema with auto-incrementing primary keys.
 - **Interactive CLI Menu:** Loop-based console interface with input prompts and error handling.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **Language:** Python 3
 - **Database:** SQLite3 (standard library module)
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
-```
+```text
 student-management-system/
 ├── app.py          # CLI menu and SQLite database CRUD logic
 ├── README.md       # Project documentation
@@ -36,7 +36,7 @@ student-management-system/
 
 ---
 
-## Getting Started Locally
+## 🚀 Getting Started Locally
 
 ### Prerequisites
 - Python 3.8 or newer (no external dependencies required)
@@ -55,7 +55,7 @@ student-management-system/
    ```
 
 3. Follow the on-screen menu:
-   ```
+   ```text
    1. Add Student
    2. View Students
    3. Delete Student
@@ -64,7 +64,7 @@ student-management-system/
 
 ---
 
-## Author
+## 👤 Developer
 **Battu Jaya Sujitha**  
 B.Tech in Computer Science and Engineering (Class of 2026)  
 [GitHub Profile](https://github.com/sujitha611) | [LinkedIn](https://www.linkedin.com/in/jaya-sujitha-576b7a290/)
