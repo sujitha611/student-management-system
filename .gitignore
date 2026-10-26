@@ -1,0 +1,18 @@
+# Database
+students.db
+*.db
+*.sqlite3
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+.venv/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
